@@ -63,7 +63,7 @@ public class Todo {
         this.targetDate = targetDate;
     }
 
-    public boolean isDone() {
+    public boolean isIsDone() {
         return isDone;
     }
 
